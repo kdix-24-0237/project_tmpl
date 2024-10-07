@@ -37,7 +37,7 @@
 なお、図を用いる場合には、文中で、「図１にこれこれを示す。」などの形で引用した上で、以下のように図を貼り付けてください。
 他者の作成した画像を引用する場合は、出典も併記するようにしてください。参考文献の引用の形式で良いです。図のキャプションは下付きです。
 
-![ Wikipedia hits per day](img/Wikipedia_hits_per_day_late_2002_with_a_gap.png)
+![ Wikipedia hits per day](Wikipedia_hits_per_day_late_2002_with_a_gap.png)
 
 図１ Wikipedia hits per day [^5]
 
